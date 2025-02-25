@@ -1,6 +1,6 @@
-Here is the updated content for the `README.md` file with the added picture:
 
-````markdown name=README.md
+
+
 # 🏆 Modern Pokédex
 
 ![Modern Pokédex](https://ibb.co/mVgDYTZ4)
@@ -106,4 +106,3 @@ Follow the prompts to complete the deployment.
 ---
 
 Enjoy your journey with the Modern Pokédex! 🎉
-````
