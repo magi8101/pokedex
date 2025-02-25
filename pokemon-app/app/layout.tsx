@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Pokédex App",
-  description: "A modern Pokédex built with Next.js",
+  description: "A modern Pokédex",
     generator: 'v0.dev'
 }
 
