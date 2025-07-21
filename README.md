@@ -1,9 +1,6 @@
 
 # 🏆 Modern Pokédex
 
-<p align="center">
-<a href="https://ibb.co/vxtgF81g"><img src="https://i.ibb.co/TBCpf5cp/v0-pokemon-next-js-website-vercel-app-1.png" alt="v0-pokemon-next-js-website-vercel-app-1" border="0" width="100%"></a>
-</p>
 
 Welcome to the **Modern Pokédex** 📖, the ultimate Pokédex built with **⚛️ Next.js, 🎨 Tailwind CSS, and ✍️ TypeScript**! Gotta catch 'em all! 🎉
 
